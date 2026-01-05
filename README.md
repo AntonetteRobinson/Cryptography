@@ -12,7 +12,7 @@ From here, the client uses the RSA algorithm to securely exchange and verify sen
 # establishing connection
 <img width="1088" height="600" alt="Screenshot 2026-01-05 at 2 54 31 PM" src="https://github.com/user-attachments/assets/efde6ffb-e94d-4b3c-860a-329e5a97de32" />
 
-# securely send information and validate
+# securely send integers and validate
 <img width="1088" height="600" alt="Screenshot 2026-01-05 at 2 54 49 PM" src="https://github.com/user-attachments/assets/02bf1366-e05b-4a4c-a653-944ab42de6a4" />
 
 
